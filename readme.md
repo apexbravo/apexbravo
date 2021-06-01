@@ -4,4 +4,4 @@ I'm Abel a Android developer and  Front End web developer .I have loved coding e
 
 :mailbox : Contact me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@apxb08-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/apxb08) [![Linkedin Badge](https://img.shields.io/badge/-Abel R Mugari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-revelation-mugari-1531b9198/) [![Mail Badge](https://img.shields.io/badge/-abelrmugari-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abelrmugari@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@apxb08-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/apxb08) [![Linkedin Badge](https://img.shields.io/badge/-Abel-R-Mugari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-revelation-mugari-1531b9198/) [![Mail Badge](https://img.shields.io/badge/-abelrmugari-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abelrmugari@gmail.com) 
