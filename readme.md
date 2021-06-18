@@ -11,4 +11,4 @@ I'm Abel a Android and  Front End web developer .I have loved coding ever since 
 
 ### Top Technologies 
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge)](#) [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?logo=Android&style=for-the-badge)](#)
