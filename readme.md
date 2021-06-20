@@ -8,7 +8,6 @@ I'm Abel a Android and  Front End web developer .I have loved coding ever since 
 
 - 🔭 I'm currently on my second year at the University.
 
-
 ### Top Technologies 
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge&logoColor=007396&labelColor=black)](#) [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?logo=android&style=for-the-badge&logoColor=3DDC84&labelColor=black)](#) [![C Badge](https://img.shields.io/badge/-C-A8B9CC?-logo=C%style=for-the-badge&logoColor=A8B9CC&labelColor=black)](#) 
+[![Java Badge](https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge&logoColor=007396&labelColor=black)](#) [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?logo=android&style=for-the-badge&logoColor=3DDC84&labelColor=black)](#) [![C Badge](https://img.shields.io/badge/-C-A8B9CC?-logo=C&style=for-the-badge&logoColor=A8B9CC&labelColor=black)](#) 
