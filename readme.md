@@ -17,6 +17,7 @@ I'm Abel a Android and  Front End web developer .I have loved coding ever since 
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@66c400f5-b27a-45e3-a659-25f57de48aaa/3c007be3-5095-47cb-a66a-0d354d81dcbd.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 
