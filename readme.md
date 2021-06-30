@@ -1,6 +1,6 @@
 ## Hi, my name is Abel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Abel a Android and  Front End web developer .I have loved coding ever since I knew that there was programming .I spent most of my time learning new technlogies , so that I can keep up with the ever changing world of tech.
+I'm Abel an Android and  Front End web developer .I have loved coding ever since I knew that there was programming .I spent most of my time learning new technlogies , so that I can keep up with the ever changing world of tech.
 
 :mailbox : Contact me!
 
@@ -27,5 +27,6 @@ I'm Abel a Android and  Front End web developer .I have loved coding ever since 
 <!--START_SECTION:waka-->
 <p><img src="https://wakatime.com/share/@66c400f5-b27a-45e3-a659-25f57de48aaa/10e4c715-dc68-48dd-9b8f-b2fa9a2b386d.svg"/><p>
 <!--END_SECTION:waka-->
-
+###Git Hub Stats 
+![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=apexbravo&show_icons=true&theme=radical)
 </details>
