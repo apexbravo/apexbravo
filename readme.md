@@ -10,7 +10,7 @@ I'm Abel a Android and  Front End web developer .I have loved coding ever since 
 
 ### Top Technologies 
 
-[![Java Badge](https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge&logoColor=007396&labelColor=black)](#) [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?logo=android&style=for-the-badge&logoColor=3DDC84&labelColor=black)](#) [![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=A8B9CC&labelColor=black)](#) 
+[![Java Badge](https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge&logoColor=007396&labelColor=black)](#) [![Kotlin Badge](https://img.shields.io/badge/-Kotlin-0095D5?-logo=Kotlin &style=for-thebadge&logoColor=0095D5&labelColor=black)](#) [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?logo=android&style=for-the-badge&logoColor=3DDC84&labelColor=black)](#) [![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=A8B9CC&labelColor=black)](#) 
 
 ### Profile Visits 
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=apexbravo.apexbravo)
@@ -19,6 +19,7 @@ I'm Abel a Android and  Front End web developer .I have loved coding ever since 
 <summary>
   More stuff about me
 </summary>
+<br>
 #### Coding Stats
 <!--START_SECTION:waka-->
 <p><img src="https://wakatime.com/share/@66c400f5-b27a-45e3-a659-25f57de48aaa/10e4c715-dc68-48dd-9b8f-b2fa9a2b386d.svg"/><p>
