@@ -17,7 +17,7 @@ I'm Abel an Android and  Front End web developer .I have loved coding ever since
 [![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=A8B9CC&labelColor=black)](#) 
 
 ### Competitive Programming
-[![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-2C3454?-logo=HackerEarth &style=for-the-badge&logoColor=2C3454&labelColor=black)]
+[![HackerEarth Badge](https://img.shields.io/badge/-HackerEarth-2C3454?logo=HackerEarth&style=for-the-badge&logoColor=2C3454&labelColor=black)](#)
 
 ### Profile Visits 
 ![visitors](http://visitor-badge.glitch.me/badge?page_id=apexbravo.apexbravo)
