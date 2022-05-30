@@ -11,7 +11,8 @@ I'm Abel a Software developer that uses the .NET Core framework to write various
 
 
 ### Top Technologies 
-[![C# Badge](https://img.shields.io/badge/-csharp-007396?logo=csharp&style=for-the-badge&logoColor=239120&labelColor=black)](#) 
+[![C# Badge](https://img.shields.io/badge/-c#-239120?logo=csharp&style=for-the-badge&logoColor=239120&labelColor=black)](#) 
+[![.NET Badge](https://img.shields.io/badge/-.net-512BD4?logo=.NET&style=for-the-badge&logoColor=512BD4&labelColor=black)](#) 
 [![Java Badge](https://img.shields.io/badge/-Java-007396?logo=Java&style=for-the-badge&logoColor=007396&labelColor=black)](#) 
 [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?logo=android&style=for-the-badge&logoColor=3DDC84&labelColor=black)](#) 
 [![C Badge](https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=A8B9CC&labelColor=black)](#) 
