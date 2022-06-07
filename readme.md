@@ -1,4 +1,4 @@
-## Hi, my name is Abel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="1px" alt="hi">
+## Hi, my name is Abel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="0.2px" alt="hi">
 
 I'm Abel a Software developer that uses the .NET Core framework to write various applications. I have loved coding ever since I knew that there was programming. I spent most of my time learning new technologies so that I can keep up with the ever-changing world of tech.
 
